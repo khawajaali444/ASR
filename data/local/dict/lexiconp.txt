@@ -1,0 +1,63 @@
+!SIL 1.0	sil
+<UNK> 1.0	spn
+bisomi 1.0	bi somi
+{ll~ahi 1.0	{ll~ahi
+{lr~aHoma`ni 1.0	{l r~aHoma`ni
+{lr~aHiymi 1.0	{l r~aHiymi
+qulo 1.0	qulo
+ya`^>ay~uhaA 1.0	ya`^ >ay~uhaA
+{loka`firuwna 1.0	{lo ka`firuwna
+laA^ 1.0	laA^
+>aEobudu 1.0	>aEobudu
+maA 1.0	maA
+taEobuduwna 1.0	taEobudu wna
+walaA^ 1.0	wa laA^
+>anaA" 1.0	>anaA"
+EaAbidN 1.0	EaAbidN
+m~aA 1.0	m~aA
+Eabadt~umo 1.0	Eabad t~umo
+>antumo 1.0	>antumo
+Ea`biduwna 1.0	Ea`biduwna
+maA^ 1.0	maA^
+lakumo 1.0	la kumo
+diynukumo 1.0	diynu kumo
+waliYa 1.0	wa li Ya
+diyni 1.0	diyni
+huwa 1.0	huwa
+>aHadN 1.0	>aHadN
+{ll~ahu 1.0	{ll~ahu
+{lS~amadu 1.0	{l S~amadu
+lamo 1.0	lamo
+yalido 1.0	yalido
+yuwlado 1.0	yuwlado
+walamo 1.0	wa lamo
+yakun 1.0	yakun
+l~ahu, 1.0	l~a hu,
+kufuwFA 1.0	kufuwFA
+>aHadN[ 1.0	>aHadN[
+>aEuw*u 1.0	>aEuw*u
+birab~i 1.0	bi rab~i
+{lofalaqi 1.0	{lo falaqi
+min 1.0	min
+xalaqa 1.0	xalaqa
+gaAsiqK 1.0	gaAsiqK
+waqaba 1.0	waqaba
+{ln~af~a`va`ti 1.0	{l n~af~a`va`ti
+fiY 1.0	fiY
+{loEuqadi 1.0	{lo Euqadi
+wamin 1.0	wa min
+$ar~i 1.0	$ar~i
+HaAsidK 1.0	HaAsidK
+<i*aA 1.0	<i*aA
+Hasada 1.0	Hasada
+maliki 1.0	maliki
+<ila`hi 1.0	<ila`hi
+{lowasowaAsi 1.0	{lo wasowaAsi
+{loxan~aAsi 1.0	{lo xan~aAsi
+{l~a*iY 1.0	{l~a*iY
+yuwasowisu 1.0	yuwasowisu
+Suduwri 1.0	Suduwri
+{ln~aAsi 1.0	{l n~aAsi
+mina 1.0	mina
+{lojin~api 1.0	{lo jin~api
+wa{ln~aAsi 1.0	wa {l n~aAsi

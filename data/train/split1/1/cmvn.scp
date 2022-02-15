@@ -1,0 +1,7 @@
+speaker1 /home/khawaja/Desktop/kaldi/egs/surat/mfcc/cmvn_train.ark:9
+speaker2 /home/khawaja/Desktop/kaldi/egs/surat/mfcc/cmvn_train.ark:257
+speaker3 /home/khawaja/Desktop/kaldi/egs/surat/mfcc/cmvn_train.ark:505
+speaker4 /home/khawaja/Desktop/kaldi/egs/surat/mfcc/cmvn_train.ark:753
+speaker5 /home/khawaja/Desktop/kaldi/egs/surat/mfcc/cmvn_train.ark:1001
+speaker6 /home/khawaja/Desktop/kaldi/egs/surat/mfcc/cmvn_train.ark:1249
+speaker7 /home/khawaja/Desktop/kaldi/egs/surat/mfcc/cmvn_train.ark:1497

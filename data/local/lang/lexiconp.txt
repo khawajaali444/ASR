@@ -1,0 +1,63 @@
+!SIL 1.0 sil_S
+<UNK> 1.0 spn_S
+bisomi 1.0 bi_B somi_E
+{ll~ahi 1.0 {ll~ahi_S
+{lr~aHoma`ni 1.0 {l_B r~aHoma`ni_E
+{lr~aHiymi 1.0 {l_B r~aHiymi_E
+qulo 1.0 qulo_S
+ya`^>ay~uhaA 1.0 ya`^_B >ay~uhaA_E
+{loka`firuwna 1.0 {lo_B ka`firuwna_E
+laA^ 1.0 laA^_S
+>aEobudu 1.0 >aEobudu_S
+maA 1.0 maA_S
+taEobuduwna 1.0 taEobudu_B wna_E
+walaA^ 1.0 wa_B laA^_E
+>anaA" 1.0 >anaA"_S
+EaAbidN 1.0 EaAbidN_S
+m~aA 1.0 m~aA_S
+Eabadt~umo 1.0 Eabad_B t~umo_E
+>antumo 1.0 >antumo_S
+Ea`biduwna 1.0 Ea`biduwna_S
+maA^ 1.0 maA^_S
+lakumo 1.0 la_B kumo_E
+diynukumo 1.0 diynu_B kumo_E
+waliYa 1.0 wa_B li_I Ya_E
+diyni 1.0 diyni_S
+huwa 1.0 huwa_S
+>aHadN 1.0 >aHadN_S
+{ll~ahu 1.0 {ll~ahu_S
+{lS~amadu 1.0 {l_B S~amadu_E
+lamo 1.0 lamo_S
+yalido 1.0 yalido_S
+yuwlado 1.0 yuwlado_S
+walamo 1.0 wa_B lamo_E
+yakun 1.0 yakun_S
+l~ahu, 1.0 l~a_B hu,_E
+kufuwFA 1.0 kufuwFA_S
+>aHadN[ 1.0 >aHadN[_S
+>aEuw*u 1.0 >aEuw*u_S
+birab~i 1.0 bi_B rab~i_E
+{lofalaqi 1.0 {lo_B falaqi_E
+min 1.0 min_S
+xalaqa 1.0 xalaqa_S
+gaAsiqK 1.0 gaAsiqK_S
+waqaba 1.0 waqaba_S
+{ln~af~a`va`ti 1.0 {l_B n~af~a`va`ti_E
+fiY 1.0 fiY_S
+{loEuqadi 1.0 {lo_B Euqadi_E
+wamin 1.0 wa_B min_E
+$ar~i 1.0 $ar~i_S
+HaAsidK 1.0 HaAsidK_S
+<i*aA 1.0 <i*aA_S
+Hasada 1.0 Hasada_S
+maliki 1.0 maliki_S
+<ila`hi 1.0 <ila`hi_S
+{lowasowaAsi 1.0 {lo_B wasowaAsi_E
+{loxan~aAsi 1.0 {lo_B xan~aAsi_E
+{l~a*iY 1.0 {l~a*iY_S
+yuwasowisu 1.0 yuwasowisu_S
+Suduwri 1.0 Suduwri_S
+{ln~aAsi 1.0 {l_B n~aAsi_E
+mina 1.0 mina_S
+{lojin~api 1.0 {lo_B jin~api_E
+wa{ln~aAsi 1.0 wa_B {l_I n~aAsi_E
